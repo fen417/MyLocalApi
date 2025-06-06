@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zB/blLJt2wey0ygE6tYYL9KjioEVK+qN+LVr48yVB+4=",
+  "Source": "MyLocalApi",
+  "BasePath": "_content/MyLocalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
